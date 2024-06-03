@@ -1,0 +1,7 @@
+webpages vs websites vs web apps
+
+webpage: is a one page 
+
+website: is multiple webpages in one place under one domain name
+
+web app: is more interactive than a website.
